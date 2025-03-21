@@ -14,7 +14,8 @@ A sleek and simple Python desktop app that helps you generate ultra-strong passw
 
 ## 📸 Sneak Peek  
 
-![image](https://github.com/user-attachments/assets/5272d45a-529e-43b5-bcf3-0ec6439e97ac)
+![image](https://github.com/user-attachments/assets/7a0c9572-e390-4e16-87eb-1a891f228207)
+
  
 
 ## 🛠️ Tech Stack  
